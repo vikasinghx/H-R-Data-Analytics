@@ -1,1 +1,2 @@
-# H-R-Data-Analytics
+# H-R-Data-Analytics 
+The HR Data Analytics project aims to leverage data analytics techniques to gain valuable insights from human resources (HR) data. By analyzing various HR metrics, the project seeks to improve decision-making processes, enhance workforce management, and optimize HR strategies within the organization. Through the application of advanced analytics tools and methodologies, the project will uncover patterns, trends, and correlations in HR data, ultimately leading to data-driven actions that drive organizational success.
